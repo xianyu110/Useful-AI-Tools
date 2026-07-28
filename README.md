@@ -43,6 +43,8 @@ None of the tools listed here are affiliated (always check the links to ensure t
 ### Images 📸
 - [Ideogram](https://ideogram.ai): Optimizes your prompts for image creation. Has a free version, but keep in mind that others can see the images you generate. I used the free version, and the cool thing is that it shows you the prompts, so, you to learn a bit about prompt engineering and how to write a beeter prompt too!
 
+- [GPT Image 2](https://gptimage2.asia/): Browser-based AI image generator and editor for marketing visuals, ecommerce product images, social posts, and branded content. Useful when you need quick production-ready images without setting up a local workflow.
+
 
 ### Career 👔
 - [Seekario.ai](https://seekario.ai): Used their role assessment, resume tailoring, and interview prep with their $20 plan. I tried different tools, but this one was the most advanced, and the results were well-written and human-like. One of their cool features is the KSC letter, which explains how you meet the most important requirements of the job.
