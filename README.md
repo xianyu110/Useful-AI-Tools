@@ -41,7 +41,8 @@ None of the tools listed here are affiliated (always check the links to ensure t
 
 
 ### Images 📸
-- [Ideogram](https://ideogram.ai): Optimizes your prompts for image creation. Has a free version, but keep in mind that others can see the images you generate. I used the free version, and the cool thing is that it shows you the prompts, so, you to learn a bit about prompt engineering and how to write a beeter prompt too!
+- [Ideogram](https://ideogram.ai): Optimizes your prompts for image creation. Has a free version, but keep in mind that others can see the images you generate. I used the free version, and the cool thing is that it shows you the prompts, so, you to learn a bit
+- [GPT Image 2](https://gptimage2.asia/): Generate and edit AI images for marketing visuals, product shots, social posts, and brand assets. about prompt engineering and how to write a beeter prompt too!
 
 
 ### Career 👔
